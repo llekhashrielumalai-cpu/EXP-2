@@ -50,6 +50,7 @@ Procedure for Load test:
 Tabulation for Open Circuit Test
 
 Tabulation for Load Test:
+
 ![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-2/8b6c3bdb3605bf29eba4631bab4c5f3574a2a402/ex%202.5.png)
 
 ![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-2/8b6c3bdb3605bf29eba4631bab4c5f3574a2a402/ex%202.4.png)
