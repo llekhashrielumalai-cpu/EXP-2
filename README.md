@@ -51,14 +51,17 @@ Tabulation for Open Circuit Test
 
 Tabulation for Load Test:
 ![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-2/8b6c3bdb3605bf29eba4631bab4c5f3574a2a402/ex%202.5.png)
+
 ![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-2/8b6c3bdb3605bf29eba4631bab4c5f3574a2a402/ex%202.4.png)
 
 Model graph:
 ![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-2/b31fe93d50f7f70c9eae5707349850e6224129a2/1.4.jpeg)
+
 ![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-2/8b6c3bdb3605bf29eba4631bab4c5f3574a2a402/ex%202.2.jpeg)
 
 Calculation: 
 ![image](https://raw.githubusercontent.com/llekhashrielumalai-cpu/EXP-2/8b6c3bdb3605bf29eba4631bab4c5f3574a2a402/ex%202.3.jpeg)
+
 Open circuit characteristics
 
   
